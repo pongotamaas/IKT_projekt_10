@@ -1,0 +1,5 @@
+name = input('Hogy hívnak? ')
+age = int(input('Hány éves vagy? '))
+suly = int(input('Hány kg vagy? ' ))
+cm = int(input('Hány cm vagy? ' ))
+print ('Szia '+ name +', aki', age , 'éves', suly , 'kg', 'és', 'cm magas vagy.')
